@@ -1,11 +1,11 @@
 <div align="center">
   
-  ## Hi 👋! My name is Vuth Piseth and I'm still a Student.
+  ## Hi👋! My name is Piseth and I'm still a Student.
 
  ## Technologies & Tools
  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+<!--- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  --->
+<!--- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ---> 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,7 +17,10 @@
   
 <!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piseth04&layout=compact&theme=dracula) --->
 
-<img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!--- <img height="500" src="https://i.imgflip.com/65efzo.gif"  />  --->
+
+<img height="500" src="https://i.pinimg.com/originals/e6/5d/50/e65d50f699ab952ca89c8525058c4a0d.gif"  />
+
 </div>
 <!---
 ### Support
