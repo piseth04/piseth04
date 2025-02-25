@@ -37,7 +37,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piseth04&layout=compact&theme=dracula)
+<!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piseth04&layout=compact&theme=dracula) --->
 
 <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
