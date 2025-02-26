@@ -1,8 +1,18 @@
-<div align="center">
-  
-  ## Hi👋! My name is Piseth and I'm still a Student.
 
- ## Technologies & Tools
+### Hi👋! My name is Piseth and I'm still a Student.
+
+### About Me
+
+- 🔭 I’m currently working on improving my coding skills.
+- 🌱 I’m currently learning TypeScript, React, Node.js, and GraphQL.
+<!--- - 👯 I’m looking to collaborate on open-source projects. --->
+- 💬 Ask me about anything tech-related!
+- 📫 How to reach me: [Telegram](https://t.me/SETHPI)
+- ⚡ Fun fact: I love exploring new technologies and frameworks.
+
+<div align="center">
+
+ ### Technologies & Tools
  
 <!--- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  --->
 <!--- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ---> 
@@ -18,8 +28,8 @@
 <!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piseth04&layout=compact&theme=dracula) --->
 
 <!--- <img height="500" src="https://i.imgflip.com/65efzo.gif"  />  --->
-
-<img height="500" src="https://i.pinimg.com/originals/e6/5d/50/e65d50f699ab952ca89c8525058c4a0d.gif"  />
+  
+<img height="300" src="https://i.pinimg.com/originals/e6/5d/50/e65d50f699ab952ca89c8525058c4a0d.gif"  />
 
 </div>
 <!---
