@@ -11,6 +11,8 @@
 - ⚡ Fun fact: I love exploring new technologies and frameworks.
 
 <div align="center">
+ 
+#
 
  ### Technologies & Tools
  
