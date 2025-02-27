@@ -27,12 +27,13 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
-<!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piseth04&layout=compact&theme=dracula) --->
 
 <!--- <img height="500" src="https://i.imgflip.com/65efzo.gif"  />  --->
   
 <img height="300" src="https://i.pinimg.com/originals/e6/5d/50/e65d50f699ab952ca89c8525058c4a0d.gif"  />
 
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piseth04&layout=compact&theme=dracula) 
+ 
 </div>
 <!---
 ### Support
