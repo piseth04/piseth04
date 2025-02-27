@@ -4,9 +4,9 @@
 
 #
 
-### About Me
-
 <div align="left">
+
+### About Me
 
 - 🔭 I’m currently working on improving my coding skills.
 - 🌱 I’m currently learning TypeScript, React, Node.js, and GraphQL.
