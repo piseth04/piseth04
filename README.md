@@ -1,7 +1,12 @@
+<div align="center">
 
 ### Hi👋! My name is Piseth and I'm still a Student.
 
+#
+
 ### About Me
+
+<div align="left">
 
 - 🔭 I’m currently working on improving my coding skills.
 - 🌱 I’m currently learning TypeScript, React, Node.js, and GraphQL.
@@ -10,12 +15,12 @@
 - 📫 How to reach me: [Telegram](https://t.me/SETHPI)
 - ⚡ Fun fact: I love exploring new technologies and frameworks.
 
-<div align="center">
- 
+</div>
+
 #
 
  ### Technologies & Tools
- 
+
 <!--- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  --->
 <!--- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ---> 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
@@ -26,16 +31,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=piseth04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+ 
+#
 
-<!--- <img height="500" src="https://i.imgflip.com/65efzo.gif"  />  --->
-  
+### Whatever😑
+
+<!--- <img height="500" src="https://i.imgflip.com/65efzo.gif"  />  --->  
 <img height="300" src="https://i.pinimg.com/originals/e6/5d/50/e65d50f699ab952ca89c8525058c4a0d.gif"  />
  
 </div>
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piseth04&layout=compact&theme=dracula) 
-<!---
+ <!---
 ### Support
 If you like my work, you can [buy me a coffee](https://www.buymeacoffee.com/piseth04).
 --->
