@@ -40,8 +40,8 @@
 
 ### Whatever😑
 
-<!--- <img height="500" src="https://i.imgflip.com/65efzo.gif"  />  --->  
-<img height="300" src="https://youtu.be/FtutLA63Cp8?si=_FX0E7XEAfeiimCN"  />
+<img height="500" src="https://i.imgflip.com/65efzo.gif"  />   
+<!---  <img height="300" src=""  /> --->
  
 </div>
 
