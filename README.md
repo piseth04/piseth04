@@ -9,7 +9,7 @@
 ### About Me
 
 - 🔭 I’m currently working on improving my coding skills.
-- 🌱 I’m currently learning Oracle Database, C#, Node.js, and Django.
+- 🌱 I’m currently learning Oracle Database, C#, Node.js, PHP, and Django.
 <!--- - 👯 I’m looking to collaborate on open-source projects. --->
 - 💬 Ask me about anything tech-related!
 - 📫 How to reach me: [Telegram](https://t.me/SETHPI)
