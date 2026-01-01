@@ -38,14 +38,11 @@
  
 <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piseth04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> --->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=piseth04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="150" alt="languages graph"  />
- 
-#
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piseth04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="150" alt="languages graph"  /> -->
 
-### Look at this Insane Cockroach Fight🪳🪳
 
 <!---  <img height="300" src="https://i.imgflip.com/65efzo.gif"  />  --->
-<img height="300" src="https://i.pinimg.com/originals/a3/34/77/a33477c4926a31a32bfee034098f56d3.gif"  /> 
+<!-- <img height="300" src="https://i.pinimg.com/originals/a3/34/77/a33477c4926a31a32bfee034098f56d3.gif"  />  -->
  
 </div>
 
