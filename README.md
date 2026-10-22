@@ -1,50 +1,68 @@
 <div align="center">
 
-### Hi👋! My name is Piseth, Good to see you here!
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=140&section=header&text=Piseth&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%" alt="Piseth" />
 
-#
+**Software developer focused on building clean, reliable web applications.**
 
-<div align="left">
-
-### About Me
-
-- 🔭 I’m currently working on improving my coding skills.
-- 💬 Ask me about anything tech-related!
-- 📫 How to reach me: [Telegram](https://t.me/SETHPI)
-- ⚡ Fun fact: I love exploring new technologies and frameworks.
-<!--- - 🌱 I’m currently learning Oracle Database, C#, Node.js, PHP, and Django. --->
-   <!--- - 👯 I’m looking to collaborate on open-source projects. --->
+[Telegram](https://t.me/SETHPI) &nbsp;·&nbsp; [GitHub](https://github.com/piseth04)
 
 </div>
 
-#
+<br/>
 
- ### Technologies & Tools
+## About
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<!-- ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) -->
-<!---![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)--->
- 
-<!--- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piseth04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> --->
+I build web applications and APIs, and I'm currently focused on improving my coding skills and writing better software. I enjoy exploring new technologies and frameworks, and I'm open to collaborating on open-source projects.
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piseth04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="150" alt="languages graph"  /> -->
+<br/>
 
+## Tech Stack
 
-<!---  <img height="300" src="https://i.imgflip.com/65efzo.gif"  />  --->
-<!-- <img height="300" src="https://i.pinimg.com/originals/a3/34/77/a33477c4926a31a32bfee034098f56d3.gif"  />  -->
- 
+| Area | Technologies |
+|:--|:--|
+| **Frontend** | HTML5, JavaScript, React, Vite |
+| **Backend** | Node.js, Python, Django, Laravel, .NET |
+| **Tools** | Git, Docker, Linux |
+
+<details>
+<summary>Badges view</summary>
+
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-1f2937?style=flat-square&logo=html5&logoColor=E34F26)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-1f2937?style=flat-square&logo=vite&logoColor=646CFF)
+![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-1f2937?style=flat-square&logo=django&logoColor=44B78B)
+![Laravel](https://img.shields.io/badge/Laravel-1f2937?style=flat-square&logo=laravel&logoColor=FF2D20)
+![.NET](https://img.shields.io/badge/.NET-1f2937?style=flat-square&logo=dotnet&logoColor=512BD4)
+![Git](https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-1f2937?style=flat-square&logo=linux&logoColor=FCC624)
+
+</details>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=piseth04&show_icons=true&theme=transparent&title_color=36BCF7&text_color=8b949e&icon_color=36BCF7&hide_border=true" />
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piseth04&layout=compact&theme=transparent&title_color=36BCF7&text_color=8b949e&hide_border=true&langs_count=6" />
+
 </div>
 
- <!---
-### Support
-If you like my work, you can [buy me a coffee](https://www.buymeacoffee.com/piseth04).
---->
+<br/>
+
+## Contact
+
+Feel free to reach out on [Telegram](https://t.me/SETHPI) for collaboration or tech discussions.
+
+---
+
+<div align="center">
+<sub>Thanks for stopping by.</sub>
+</div>
