@@ -4,7 +4,7 @@
 
 **Software developer focused on building clean, reliable web applications.**
 
-[Telegram](https://t.me/SETHPI) &nbsp;·&nbsp; [GitHub](https://github.com/piseth04)
+[Telegram](https://t.me/SETHPI) &nbsp;·&nbsp; [GitHub](https://github.com/piseth04) &nbsp;·&nbsp; [Linkedin](https://www.linkedin.com/in/vuthpiseth/)
 
 </div>
 
